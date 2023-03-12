@@ -1,0 +1,53 @@
+body{
+    background-color: #24353f;
+    height: 100vh;
+}
+section{
+    height: inherit;
+}
+
+.container{
+    height: inherit;
+}
+input{
+    background-color: #24353f;
+}
+button{
+    border: #17a2b8 solid 1px;
+    color: #17a2b8;
+    border-radius: 0.25rem;
+    background-color: #24353f;
+    padding: 0.5rem;
+}
+button:hover {
+    background-color: #17a2b8;
+    color: white;
+}
+h1{
+color: #17a2b8;
+margin-bottom: 1rem;
+}
+input{
+    background-color: transparent;
+    color:#ced4da;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    border: white solid 1px;
+   
+}
+h5{
+    color: white;
+    margin-top: 0.5rem;
+}
+.cust{
+    box-shadow: 0 0 4rem 1rem rgb(31, 31, 31);
+    padding: 2rem;
+    margin-top: 20%;
+}
+a{
+   color: white;
+   text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
